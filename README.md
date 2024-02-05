@@ -1,6 +1,8 @@
-### 👋 Hey there, I'm Julian Barrera!
+### Hey, I'm Julian 👋🏼
 
-🖥️ My journey into the world of coding began with Roblox Studio, where I Lua to create games. I consider myself a new programmer as I know the basics but not enough to create fully complex programs.
+I'm a 17-year-old programmer in the United States. 
+
+🖥️ My coding journey began with Roblox Studio, where I used Lua to create games. I expanded from that to where I am currently learning Python.
 
 🌱 Currently, I'm exploring all the ways I can expand on my skills. I currently know two languages which are Lua and Python.
 
