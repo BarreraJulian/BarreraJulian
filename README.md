@@ -1,6 +1,6 @@
 ### Hey, I'm Julian 👋🏼
 
-I'm a 17-year-old programmer in the United States. 
+I'm a 17-year-old programmer based in the United States. 
 
 My coding journey began with Roblox Studio, where I used Lua to create games. I expanded from that to where I am currently learning Python.
 
