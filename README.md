@@ -2,11 +2,19 @@
 
 I'm a 17-year-old programmer in the United States. 
 
-🖥️ My coding journey began with Roblox Studio, where I used Lua to create games. I expanded from that to where I am currently learning Python.
+My coding journey began with Roblox Studio, where I used Lua to create games. I expanded from that to where I am currently learning Python.
 
-🌱 Currently, I'm exploring all the ways I can expand on my skills. I currently know two languages which are Lua and Python.
+## 📦 Toolbox
+Currently, I'm exploring all the ways I can expand on my skills. 
 
-🎵 My favorite thing to do while doing things is play music. It allows me to focus on the tasks at hand and help keep me calm.
+**Languages I Know**
+  - Python
+  - Lua
+
+## ✨ Fun Facts 
+  - My favorite show is The Walking Dead
+  - I love to listen to music
+  - My favorite NFL team are the Arizona Cardinals
 
 📚 While I am self-taught up to this point, I'm enrolling into College to pursue a Bachelor's degree in Computer Science.
 
