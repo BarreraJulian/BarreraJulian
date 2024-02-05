@@ -14,7 +14,7 @@ Currently, I'm exploring all the ways I can expand on my skills.
 ## ✨ Fun Facts 
   - My favorite show is The Walking Dead
   - I love to listen to music
-  - My favorite NFL team are the Arizona Cardinals
+  - My favorite NFL team is the Arizona Cardinals
 
 📚 While I am self-taught up to this point, I'm enrolling into College to pursue a Bachelor's degree in Computer Science.
 
