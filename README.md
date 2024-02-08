@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a 17-year-old programmer based in the United States. 
 
+I began my programming journey by creating games on Roblox using their programming language, Lua. I found success in making "Criminal Tycoon" which ammased close to 9 million visits and generated close to $2,000 in revenue.
+
 🔭 I’m currently learning Python <br>
 🌱 I'm looking for all the ways to improve daily <br>
 🎓 Pursuing a Bachelor's in Computer Science <br>
